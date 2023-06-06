@@ -7,3 +7,5 @@ The project looked to return metrics related to
 - The average price of a home for each year of homes built.  Only interested in 3BA/3BR homes
 - The average price of a home for each year of homes built.  Only interested in 3BA/3BR homes with 2,000+ sq feet and 2 floors
 - The view" rating for homes costing more than or equal to $350,000
+
+The project also looked to query against cached and uncached data in addition to parquet data
